@@ -1,0 +1,9 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": ["prettier"],
+
+  "rules": {
+    "jsx-quotes": [1, "prefer-double"]
+  },
+  "plugins": ["prettier"]
+}
